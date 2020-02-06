@@ -1,0 +1,5 @@
+# ninja log v5
+1	389	6024915804001052	CMakeFiles/cpp11_test.dir/cpp11_test.cpp.o	20093529f498c544
+389	645	6024915806620425	libcpp11_test.a	300229e7877a8fee
+1	385	6024919668877103	CMakeFiles/cpp11_test.dir/cpp11_test.cpp.o	f9c0c3b70e947b1f
+386	455	6024919669621032	libcpp11_test.a	f9fb43e9aadf4050

@@ -1,0 +1,2 @@
+include ':app', 'open_cv'
+rootProject.name='FaceVerification'
